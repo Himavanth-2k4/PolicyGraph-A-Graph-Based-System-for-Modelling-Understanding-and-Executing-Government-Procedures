@@ -3,7 +3,7 @@
 This project is a student-grade but research-worthy prototype that provides personalized guidance on government scheme eligibility using:
 - a **retrieval-augmented generation (RAG)** layer over official documents, and
 - a **lightweight knowledge graph (KG)** of schemes and eligibility criteria.
-
+                   
 ### Structure
 
 ```text
